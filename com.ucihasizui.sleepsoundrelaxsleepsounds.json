@@ -1,0 +1,51 @@
+{
+    "redirect":
+	[
+        {
+		"url_utama": "file:///android_asset/music/playlist.html",
+
+		"enable_mp3": true,
+                "enable_strap": true,
+                "enable_strap_Splah": true,
+                "ads_on_exit_dialog": true,
+
+                "pengaturan_iklan": "1",
+		"inter_count": 4,
+
+            	"startapp": "206334697",
+
+                "appid": "pub-5681954883830984",
+                "admobappid": "ca-app-pub-5681954883830984~2520160821",
+                "bannerid": "ca-app-pub-5681954883830984/4848324150",
+                "interid": "ca-app-pub-5681954883830984/3675677430",
+		"nativeid" : "ca-app-pub-5681954883830984/2904864703",                
+
+                "hpkstartapp": "finance",
+                "hpkstartapp": "Insurance",
+                "hpkstartapp": "the forex guy",
+                "hpkstartapp": "Bank",
+                "hpk_alien": "forex",
+                "hpkadmob1": "Doctor",
+                "hpkadmob2": "Insurance",
+                "hpkadmob3": "Bitcoin",
+                "hpkadmob4": "sutter hospital",
+                "hpkadmob5": "finance",
+                "hpkadmob6": "oanda historical fx",
+
+                "fan_inter": "YOUR_PLACEMENT_ID",
+                "fan_banner": "YOUR_PLACEMENT_ID",
+		"fan_native": "YOUR_PLACEMENT_ID",
+
+		"exit_popup_dialog":
+		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
+				 
+                "url_more_apps": "https://play.google.com/store/apps/developer?id=ucihasizui",
+                "rate_button" : "Rate 5 Stars Now",
+                "later_button" : "Rate Later",
+		"more_button" : "More Awesome Apps",
+				 
+		"json_popup_wait" : "Ready . . . ."
+
+        }
+    ]
+}
