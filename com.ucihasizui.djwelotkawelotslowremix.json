@@ -1,0 +1,67 @@
+{
+    "redirect":
+	[
+        {
+		"url_utama": "file:///android_asset/music/playlist.html",
+
+		"enable_mp3": true,
+                "enable_strap": true,
+                "enable_strap_Splah": true,
+                "ads_on_exit_dialog": true,
+
+                "pengaturan_iklan": "1",
+		"inter_count": 4,
+
+            	"startapp": "206334697",
+
+                "appid": "pub-5681954883830984_salah",
+                "admobappid": "ca-app-pub-5681954883830984~5881086954_salah",
+                "bannerid": "ca-app-pub-3940256099942544/6300978111_salah",
+                "interid": "ca-app-pub-5681954883830984/4568005285_salah",
+		"nativeid" : "ca-app-pub-3940256099942544/2247696110_salah",                
+
+                "hpkstartapp": "youtube jazz",
+                "hpkstartapp": "downloader youtube musik",
+                "hpkstartapp": "android auto youtube music",
+                "hpkstartapp": "spotify laptop",
+                "hpkstartapp": "youtube music carplay",
+                "hpkstartapp": "spotify youtube music",
+                "hpk_alien": "telkomsel",
+                "hpkadmob1": "youtube jazz",
+                "hpkadmob2": "downloader youtube musik",
+                "hpkadmob3": "android auto youtube music",
+                "hpkadmob4": "spotify laptop",
+                "hpkadmob5": "youtube music carplay",
+                "hpkadmob6": "spotify youtube music",
+                "hpkadmob7": "deezer sony 360",
+		"hpkadmob8": "spotify artist",
+		"hpkadmob9": "soundcloud mp3",
+		"hpkadmob10": "stream spotify",
+		"hpkadmob11": "amazon music converter",
+		"hpkadmob12": "youtube rock",
+		"hpkadmob13": "itd music",
+		"hpkadmob14": "apple music android",
+		"hpkadmob15": "spotify play",
+		"hpkadmob16": "musik dj terbaru",
+		"hpkadmob17": "lagu DJ hits",
+		"hpkadmob18": "musik original",
+		"hpkadmob19": "Jook",
+		"hpkadmob10": "Lagu Kenangan Lawas",
+
+                "fan_inter": "YOUR_PLACEMENT_ID",
+                "fan_banner": "YOUR_PLACEMENT_ID",
+		"fan_native": "YOUR_PLACEMENT_ID",
+
+		"exit_popup_dialog":
+		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
+				 
+                "url_more_apps": "https://play.google.com/store/apps/developer?id=ucihasizui",
+                "rate_button" : "Rate 5 Stars Now",
+                "later_button" : "Rate Later",
+		"more_button" : "More Awesome Apps",
+				 
+		"json_popup_wait" : "Ready . . . ."
+
+        }
+    ]
+}
