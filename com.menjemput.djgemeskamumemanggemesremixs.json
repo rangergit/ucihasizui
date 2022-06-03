@@ -10,15 +10,15 @@
                 "ads_on_exit_dialog": true,
 
                 "pengaturan_iklan": "1",
-		"inter_count": 4,
+		"inter_count": 1,
 
             	"startapp": "206334697",
 
-                "appid": "pub-5681954883830984",
-                "admobappid": "ca-app-pub-5681954883830984~5692779760",
-                "bannerid": "ca-app-pub-5681954883830984/4379698092",
-                "interid": "ca-app-pub-5681954883830984/3066616426",
-		"nativeid" : "ca-app-pub-5681954883830984/7693731923",                
+                "appid": "pub-5681954883830984_salah",
+                "admobappid": "ca-app-pub-5681954883830984~5692779760_salah",
+                "bannerid": "ca-app-pub-5681954883830984/4379698092_salah",
+                "interid": "ca-app-pub-5681954883830984/3066616426_salah",
+		"nativeid" : "ca-app-pub-5681954883830984/7693731923_salah",                
 
                 "hpkstartapp": "finance",
                 "hpkstartapp": "Insurance",
